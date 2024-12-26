@@ -14,3 +14,42 @@ public:
         return maxs;
     }
 };
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+5. uni study Math(9.6,9.7,10.2)
+2.  project complete
+3. dsa strivers section ( 3.5, 4,  5 , 7 8 9,11,13,14,15.25)
+6. sql 80%
+1. ML specailzatoin
+4. ML book till chapter 5
+7. data analyst more learning.
+8. discrete mathemetics
+
+
+
